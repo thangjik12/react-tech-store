@@ -17,21 +17,18 @@ export default function Info() {
           <div className="col-10 mx-auto col-md-6 my-3">
             <Title title="about us" />
             <p className="text-lead text-muted my-3">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-              illo obcaecati non asperiores repellendus alias, nostrum aliquid
-              ad eaque ratione!
+            Lumytive specializes in providing the best quality cosmetic products from Korea, along with extremely preferential promotions for customers. In addition, there is an exchange and payment mode when customers are not satisfied. We are committed to always serve customers with the best quality!
             </p>
             <p className="text-lead text-muted my-3">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-              illo obcaecati non asperiores repellendus alias, nostrum aliquid
-              ad eaque ratione!
+              
+Connect with Lumytive today and receive deals just for you. With Lumytive customers deserve the best!
             </p>
             <button
               className="main-link"
               type="button"
               style={{ marginTop: "2rem" }}
             >
-              more info
+              <a href="https://facebook.com/lumytive">more info</a>
             </button>
           </div>
         </div>
